@@ -28,7 +28,7 @@ NewsMag is a modern **React-based news application** that displays the latest he
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/news-mag.git
+git clone https://github.com/BE77ION/news-mag.git
 cd news-mag
 
 
